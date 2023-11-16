@@ -1,6 +1,6 @@
 # Landon Montecalvo
 
-I am a highschool student in Rhode Island. I mainly develop apps and games with the occasional data manipulation or web development project.
+I am a highschool student in Rhode Island. I mainly develop apps, games, or software utilities along with the occasional data manipulation or web development project.
 
 ## Experience
 
@@ -11,6 +11,6 @@ I am a highschool student in Rhode Island. I mainly develop apps and games with 
 ## Language Experience
 
 - C# - My main language for development with Unity. (Well Versed)
-- Python - Data work and automation. (Moderate Experience)
+- Python - Data work and automation. (Well Versed)
 - C++ - Arduino projects. (Moderate Experience)
 - HTML/CSS/JavaScript - Web dev. (Low-level Experience)
