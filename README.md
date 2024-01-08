@@ -4,7 +4,7 @@ I am a highschool student in Rhode Island. I mainly develop apps, games, or soft
 
 ## Experience
 
-- Lead scout and application developer for Aquidneck Island Robotics (Team 78).
+- Lead scout and application developer for First Robotics Competition Team, AIR Strike (78).
 - 2 Game Jam Submissions.
 - IT intern for TAPIN (a local non-profit charity).
 
