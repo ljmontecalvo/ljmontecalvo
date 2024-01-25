@@ -2,6 +2,8 @@
 
 I am a highschool student in Rhode Island. I mainly develop apps, games, or software utilities along with the occasional data manipulation or web development project.
 
+![](https://myreadme.vercel.app/api/embed/ljmontecalvo?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+
 ## Experience
 
 - Lead scout and application developer for First Robotics Competition Team, AIR Strike (78).
