@@ -14,4 +14,5 @@ I am a highschool student in Rhode Island. I mainly develop apps, games, or soft
 - Python - Data work and automation. (Well Versed)
 - C++ - Arduino projects. (Moderate Experience)
 - HTML/CSS/JavaScript - Web dev. (Low-level Experience)
-- Java - FRC Robot Code. (Just Starting!)
+- Java - FRC Robot Code. (Low-level Experience)
+- GDScript - Development in Godot. (Learning Now!)
