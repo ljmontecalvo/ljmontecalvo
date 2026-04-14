@@ -1,7 +1,5 @@
 # Landon Montecalvo
 
-![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljmontecalvo&show_icons=true)
-
 I am a highschool student in Rhode Island. I mainly develop apps, games, or software utilities along with the occasional data manipulation or web development project.
 
 ## Roles and Experience
